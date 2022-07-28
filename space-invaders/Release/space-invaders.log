@@ -1,0 +1,6 @@
+﻿  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+I:\Programms\space-invaders\space-invaders\Player.cpp(37): warning C4172: возвращение адреса локальной или временной переменной : bullet
+  All 347 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  space-invaders.vcxproj -> I:\Programms\space-invaders\Release\space-invaders.exe
